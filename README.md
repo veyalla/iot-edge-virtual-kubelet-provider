@@ -103,6 +103,10 @@ There are more interesting use cases for this project like:
 
 Please give us feedback on how the tool is working for you by tweeting us at [@MicrosoftIoT](https://twitter.com/MicrosoftIoT), as well as any feature requests at [Azure IoT Edge Feedback](https://feedback.azure.com/forums/907045-azure-iot-edge/) or GitHub issues for this repo.
 
+# Feature requests
+
+[![Feature Requests](https://feathub.com/veyalla/iot-edge-virtual-kubelet-provider?format=svg)](https://feathub.com/veyalla/iot-edge-virtual-kubelet-provider)
+
 
 # Contributing
 
